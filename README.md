@@ -6,7 +6,7 @@ A passionate Software Engineer from Indonesia with a love for creating innovativ
 
 ### 🚀 About Me
 
-- 🎓 I'm currently a student at Universital Lampung , majoring in computer science .
+- 🎓 I'm currently a student at university Lampung , majoring in computer science .
 - 💻 My main interests are Backend Development, Cloud Computing, and AI.
 - 🌱 I’m currently diving deep into AI.
 
