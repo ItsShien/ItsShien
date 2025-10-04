@@ -16,10 +16,7 @@ A passionate Software Engineer from Indonesia with a love for creating innovativ
 
 Here are a few technologies I've been working with recently:
 
-- **Languages:** JavaScript, Python, Java, SQL
-- **Frontend:** React, HTML5, CSS3
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, PostgreSQL
+- **Languages:** C++ , Indonesian , english
 - **Tools:** Git, Docker, VS Code
 
 ---
