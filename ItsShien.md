@@ -1,5 +1,5 @@
 # Hello, ItsShien! ✨
-[My Wife]([https://user-images.githubusercontent.com/1234567/123456789-abcdef.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Ywc3lkMWlrd3BtdzF4ZzRua2Jua2ljNmJrNDhmdW5hN2g4eHkxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cYt0sYmvTvlrzQplsX/giphy.gif))
+![My Wife]([https://user-images.githubusercontent.com/1234567/123456789-abcdef.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Ywc3lkMWlrd3BtdzF4ZzRua2Jua2ljNmJrNDhmdW5hN2g4eHkxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cYt0sYmvTvlrzQplsX/giphy.gif))
 A passionate Software Engineer from Indonesia with a love for creating innovative solutions. My journey in tech is driven by curiosity and a desire to solve real-world problems.
 
 ---
