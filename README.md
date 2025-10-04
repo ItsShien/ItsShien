@@ -1,15 +1,14 @@
-# Hello, I'm ItsShien! ✨
+# Hello, ItsShien! ✨
 
-A passionate [Peran Kamu, cth: Software Engineer] from [Lokasi Kamu] with a love for creating innovative solutions. My journey in tech is driven by curiosity and a desire to solve real-world problems.
+A passionate Software Engineer from Indonesia with a love for creating innovative solutions. My journey in tech is driven by curiosity and a desire to solve real-world problems.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 I'm currently a student at **[Nama Universitas]**, majoring in **[Jurusan Kamu]**.
-- 💻 My main interests are **[Minat Utama, cth: Backend Development, Cloud Computing, and AI]**.
-- 🌱 I’m currently diving deep into **[Teknologi yang sedang dipelajari]**.
-- 📫 Let's connect! Find me on [LinkedIn](https://linkedin.com/in/username-kamu).
+- 🎓 I'm currently a student at Universital Lampung , majoring in computer science .
+- 💻 My main interests are Backend Development, Cloud Computing, and AI.
+- 🌱 I’m currently diving deep into AI.
 
 ---
 
