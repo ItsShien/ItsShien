@@ -1,8 +1,9 @@
+<h1 align="center"> Hello, Its me Shien! ✨ </h1>
+
+
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxrZ2g5ZWhwbG0yeDN0bW11cDY3NDRjOTdxOWhtZzl6d2FjNHIyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cYt0sYmvTvlrzQplsX/giphy.gif" alt="Coding GIF" width="600"/>
 </p>
-
-<h1 align="center"> Hello, Its me Shien! ✨ </h1>
 
 ---
 
