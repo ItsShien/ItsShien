@@ -1,11 +1,10 @@
 # Hello, ItsShien! ✨
-A passionate Software Engineer from Indonesia with a love for creating innovative solutions. My journey in tech is driven by curiosity and a desire to solve real-world problems.
 
+![gif](https://github.com/user-attachments/assets/97b76a1a-c5f4-4c97-a0b7-2ecb70e62330)
+
+A passionate Software Engineer from Indonesia with a love for creating innovative solutions. My journey in tech is driven by curiosity and a desire 
+to solve real-world problems.
 ---
-
-![gif](https://github.com/user-attachments/assets/2520471f-272f-4eda-b15a-a4f379b1f712)
-
-
 ### 🚀 About Me
 
 - 🎓 I'm currently a student at university Lampung , majoring in computer science .
