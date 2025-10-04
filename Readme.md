@@ -4,12 +4,10 @@
 
 ---
 
-A passionate Software Engineer from Indonesia with a love for creating innovative solutions. My journey in tech is driven by curiosity and a desire 
-to solve real-world problems.
+As a passionate Software Engineer from Indonesia, I am dedicated to creating innovative solutions that effectively solve real-world problems. My journey in tech is a constant pursuit of knowledge, driven by a profound curiosity and the satisfaction of seeing code come to life. Whether it's architecting a scalable backend system or optimizing a user-facing feature, I am constantly seeking opportunities to challenge myself and grow. I am a firm believer in clean code, collaborative teamwork, and lifelong learning as the cornerstones of building exceptional software.
 
 ---
 ### 🚀 About Me
-
 - 🎓 I'm currently a student at university Lampung , majoring in computer science .
 - 💻 My main interests are Backend Development, Cloud Computing, and AI.
 - 🌱 I’m currently diving deep into AI.
