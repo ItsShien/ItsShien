@@ -1,25 +1,19 @@
-<div id="header" align="center">
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxrZ2g5ZWhwbG0yeDN0bW11cDY3NDRjOTdxOWhtZzl6d2FjNHIyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cYt0sYmvTvlrzQplsX/giphy.gif" alt="Coding GIF" width="1000"/>
 </p>
 
 ---
+<div align="center">
 
 ## ` holographic log `
-
+<div align="left">
+  
 > `>` As a passionate Software Engineer from Indonesia, I am dedicated to creating innovative solutions that effectively solve real-world problems. My journey in tech is a constant pursuit of knowledge, driven by a profound curiosity and the satisfaction of seeing code come to life. Whether it's architecting a scalable backend system or optimizing a user-facing feature, I am constantly seeking opportunities to challenge myself and grow. I am a firm believer in clean code, collaborative teamwork, and lifelong learning as the cornerstones of building exceptional software.
 
 </p> 
 
 ---
-
-<table align="right">
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Mandarin ★★☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Russian ★★☆</a></td></tr>
-</table>
-
+<div id="header" align="center">
 
 ## ` About Me `
 <p align="left">
@@ -34,9 +28,19 @@
 ## ` Tech Stack `
 
 [![My Skills](
-https://skillicons.dev/icons?i=,cpp
+https://skillicons.dev/icons?i=,cpp,python,c,matlab,you
 )](https://skillicons.dev)
 <br>
+
+---
+
+<table align="right">
+    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Mandarin ★★☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Russian ★★☆</a></td></tr>
+</table>
+
 
 **Tools & Platforms:**
 <p>
