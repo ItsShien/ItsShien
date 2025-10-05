@@ -6,39 +6,32 @@
 </p>
 
 ---
+## ` holographic log `
 
-As a passionate Software Engineer from Indonesia, I am dedicated to creating innovative solutions that effectively solve real-world problems. My journey in tech is a constant pursuit of knowledge, driven by a profound curiosity and the satisfaction of seeing code come to life. Whether it's architecting a scalable backend system or optimizing a user-facing feature, I am constantly seeking opportunities to challenge myself and grow. I am a firm believer in clean code, collaborative teamwork, and lifelong learning as the cornerstones of building exceptional software.
+> [//]: # (Tulis bio singkat tentang dirimu di sini dengan gaya sci-fi)
+> `>` As a passionate Software Engineer from Indonesia, I am dedicated to creating innovative solutions that effectively solve real-world problems. My journey in tech is a constant pursuit of knowledge, driven by a profound curiosity and the satisfaction of seeing code come to life. Whether it's architecting a scalable backend system or optimizing a user-facing feature, I am constantly seeking opportunities to challenge myself and grow. I am a firm believer in clean code, collaborative teamwork, and lifelong learning as the cornerstones of building exceptional software.
+
+
 
 ---
-### 🚀 About Me
+## ` About Me `
 - 🎓 I'm currently a student at university Lampung , majoring in computer science .
 - 💻 My main interests are Backend Development, Cloud Computing, and AI.
 - 🌱 I’m currently diving deep into AI.
 
 ---
 
-### 🛠️ My Tech Stack
+## ` Tech Stack `
 
-Here are a few technologies I've been working with recently:
-
-**Languages:**
-<p>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
+<p align="center">
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ableton,activitypub,actix,ada,adonis,ae,aiscript,alpinejs,anaconda,android,androidstudio,angular,ansible,apache,apollo,apple,appwrite,arch,argocd,arduino,astro,atom,au,autocad,aws,azul,azure,babel,babylonjs,backbonejs,bash,bevy,bitbucket,blender,bootstrap,bsd,bun,c,caddy,cassandra,chai,chef,circleci,clickhouse,clion,clojure,cloudflare,cmake,cobol,cockroachdb,codepen,coffeescript,cpp,crystal,cs,css,cypress,d3,datadog,databricks,dart,debian,deno,devto,digitalocean,discordbots,discordjs,django,docker,docusaurus,dotnet,dynamodb,eclipse,elasticsearch,electron,elixir,elysia,emacs,ember,emotion,erlang,eslint,express,fsharp,fastapi,faunadb,fediverse,fedora,figma,firebase,flask,flutter,flyio,forth,fortran,framer,freebsd,gamemakerstudio,gatsby,gcp,git,github,githubactions,gitlab,gimp,gmail,gherkin,go,godot,gradle,grafana,graphql,groovy,grpc,gtk,gulp,hadoop,haskell,haxe,haxeflixel,heroku,hibernate,html,htmx,huggingface,idea,ai,influxdb,inkscape,instagram,ipfs,java,jenkins,jest,jira,js,jquery,julia,jupyter,kafka,kali,keras,kotlin,ktor,kubernetes,laravel,latex,less,linkedin,linode,linux,lit,lua,magento,mariadb,mastodon,materialui,matlab,matplotlib,maven,md,mint,misskey,mocha,mongodb,mysql,neo4j,neovim,nestjs,netlify,nextjs,nextui,nginx,nim,nix,nodejs,notion,npm,nuxt,numpy,obsidian,ocaml,objectivec,octave,opencv,openshift,openstack,p5js,pandas,perl,phalcon,phoenix,php,phpstorm,pinia,pkl,plan9,planetscale,playwright,pnpm,podman,postgres,postman,powerbi,powershell,pr,preact,prettier,prisma,processing,prolog,prometheus,ps,pug,pulumi,puppet,py,pycharm,pytorch,qgis,qt,rabbitmq,racket,rails,raspberrypi,react,reactivex,redhat,redis,redux,regex,remix,replit,rest,rider,robloxstudio,rocket,rollupjs,ros,ruby,rust,saltstack,sass,scala,scheme,scikitlearn,scylladb,selenium,sentry,sequelize,shadcnui,sketchup,slack,solidjs,solidity,solr,sonarcloud,sonarqube,spinnaker,spring,spark,sqlite,stackoverflow,styledcomponents,sublime,supabase,svelte,svg,swift,symfony,tableau,tailwind,tauri,tcl,teamcity,tensorflow,terraform,threejs,travisci,trello,twitter,ts,ubuntu,unity,unreal,v,vagrant,vala,vercel,vim,visualstudio,vite,vitepress,vitest,vscode,vscodium,vue,vuetify,wasm,webflow,webpack,webrtc,websockets,webstorm,windicss,windows,wordpress,workers,xd,yarn,yew,yii,zapier,zig,zodableton,activitypub,actix,adonis,ae,aiscript,alpinejs,anaconda,android,androidstudio,angular,ansible,apollo,apple,appwrite,arch,arduino,astro,atom,au,autocad,aws,azul,azure,babel,bash,bevy,bitbucket,blender,bootstrap,bsd,bun,c,cassandra,clion,clojure,cloudflare,cmake,codepen,coffeescript,cpp,crystal,cs,css,cypress,d3,dart,debian,deno,devto,discordbots,discordjs,django,docker,dotnet,dynamodb,eclipse,elasticsearch,electron,elixir,elysia,emacs,ember,emotion,express,fastapi,fediverse,figma,firebase,flask,flutter,forth,fortran,gamemakerstudio,gatsby,gcp,git,github,githubactions,gitlab,gmail,gherkin,go,godot,gradle,grafana,graphql,gtk,gulp,haskell,haxe,haxeflixel,heroku,hibernate,html,htmx,idea,ai,instagram,ipfs,java,jenkins,jest,js,jquery,kafka,kali,kotlin,ktor,kubernetes,laravel,latex,less,linkedin,linux,lit,lua,mastodon,materialui,matlab,maven,md,mint,misskey,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nim,nix,nodejs,notion,npm,nuxt,obsidian,ocaml,octave,opencv,openshift,openstack,p5js,perl,php,phpstorm,pinia,pkl,plan9,planetscale,pnpm,postgres,postman,powershell,pr,prisma,processing,prometheus,ps,pug,py,pycharm,pytorch,qt,rabbitmq,rails,raspberrypi,react,reactivex,redhat,redis,redux,regex,remix,replit,rider,robloxstudio,rocket,rollupjs,ros,ruby,rust,sass,scala,sklearn,selenium,sentry,sequelize,sketchup,solidity,solidjs,spring,sqlite,stackoverflow,styledcomponents,sublime,supabase,svelte,svg,swift,symfony,tailwind,tauri,tensorflow,terraform,threejs,twitter,ts,ubuntu,unity,unreal,v,vala,vercel,vim,visualstudio,vite,vitest,vscode,vscodium,vue,vuetify,wasm,webflow,webpack,webstorm,windicss,windows,wordpress,workers,xd,yarn,yew,zig" />
+  </a>
 </p>
 
-**Frameworks & Libraries :**
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"></a>
-</p>
+<br>
+
 
 **Tools & Platforms:**
 <p>
@@ -50,10 +43,5 @@ Here are a few technologies I've been working with recently:
 </p>
 
 ---
-
-### 📊 My GitHub Stats
-
-![ItsShien's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsShien&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsShien&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
