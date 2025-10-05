@@ -16,10 +16,7 @@
 <div id="header" align="center">
 
 ## ` About Me `
-<p align="left">
-- 💻 My main interests are Backend Development, Cloud Computing, and AI..
-<p align="left">
-- 🌱 I’m currently diving deep into AI.
+>`>` As a technologist focused on the powerful trio of Backend Development, Cloud Computing, and AI, my core interests revolve around building intelligent, scalable, and resilient systems that power modern applications. My experience in backend development ensures that any solution is architecturally sound and performant, while my focus on cloud computing guarantees the solutions can scale globally, handle massive traffic, and manage resources efficiently. I am currently deepening my expertise in AI, actively learning how to integrate machine learning models, MLOps practices, and generative capabilities directly into these scalable cloud backends to create the next generation of smart services and products.
 
 
   
