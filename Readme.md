@@ -3,12 +3,15 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxrZ2g5ZWhwbG0yeDN0bW11cDY3NDRjOTdxOWhtZzl6d2FjNHIyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cYt0sYmvTvlrzQplsX/giphy.gif" alt="Coding GIF" width="1000"/>
 </p>
 
+---
 
 ## ` holographic log `
 
 > `>` As a passionate Software Engineer from Indonesia, I am dedicated to creating innovative solutions that effectively solve real-world problems. My journey in tech is a constant pursuit of knowledge, driven by a profound curiosity and the satisfaction of seeing code come to life. Whether it's architecting a scalable backend system or optimizing a user-facing feature, I am constantly seeking opportunities to challenge myself and grow. I am a firm believer in clean code, collaborative teamwork, and lifelong learning as the cornerstones of building exceptional software.
 
 </p> 
+
+---
 
 <table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
@@ -19,13 +22,17 @@
 
 
 ## ` About Me `
-- 🎓 I'm currently a student at university Lampung , majoring in computer science .
-- 💻 My main interests are Backend Development, Cloud Computing, and AI.
+<p align="left">
+- 💻 My main interests are Backend Development, Cloud Computing, and AI..
+<p align="left">
 - 🌱 I’m currently diving deep into AI.
 
 
+  
+---
 
 ## ` Tech Stack `
+
 [![My Skills](
 https://skillicons.dev/icons?i=,cpp
 )](https://skillicons.dev)
