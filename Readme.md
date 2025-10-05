@@ -44,4 +44,5 @@
 
 ---
 
+![snake gif](https://github.com/ItsShien/ItsShien/blob/output/github-snake-dark.svg)
 
