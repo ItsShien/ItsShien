@@ -16,12 +16,15 @@
 <div id="header" align="center">
 
 ## ` About Me `
+<div align="left">
+  
 >`>` As a technologist focused on the powerful trio of Backend Development, Cloud Computing, and AI, my core interests revolve around building intelligent, scalable, and resilient systems that power modern applications. My experience in backend development ensures that any solution is architecturally sound and performant, while my focus on cloud computing guarantees the solutions can scale globally, handle massive traffic, and manage resources efficiently. I am currently deepening my expertise in AI, actively learning how to integrate machine learning models, MLOps practices, and generative capabilities directly into these scalable cloud backends to create the next generation of smart services and products.
 
 
   
 ---
-
+<div align="center">
+  
 ## ` Tech Stack `
 
 [![My Skills](
@@ -55,7 +58,8 @@ https://skillicons.dev/icons?i=,cpp,python,c,matlab,you
   <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch"/>
 </p>
 
+![snake gif](https://github.com/ItsShien/ItsShien/blob/output/github-snake-dark.svg)
+
 ![Preview](https://tthn.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
 
 
-![snake gif](https://github.com/ItsShien/ItsShien/blob/output/github-snake-dark.svg)
