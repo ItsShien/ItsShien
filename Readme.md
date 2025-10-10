@@ -1,7 +1,12 @@
+<div align="center">
+    <a href="https://github.com/kawarimidoll/typograssy">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%34%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
+</div>
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtsN3k3MWZkcm9rM2xncjh2YXNjOTQzZWR5N2k2OGFvd2tkYW01aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8wCBLhkjNknS/giphy.gif" alt="Coding GIF" width="1000"/>
 </p>
-
+ 
 ---
 <div align="center">
 
@@ -60,6 +65,14 @@ https://skillicons.dev/icons?i=,cpp,python,c,matlab,you
 
 ![snake gif](https://github.com/ItsShien/ItsShien/blob/output/github-snake-dark.svg)
 
+<div align="center"
+  
 ![Preview](https://tthn.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdqejJkejg2Y2p2bXg0ZTZwcG1ua2FkbHV3ODlqMGhrOXgxeWpxNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kkw68HRUTBYBND4TRJ/giphy.gif" alt="Coding GIF" width="279px"/>
+
+
+
+
 
 
