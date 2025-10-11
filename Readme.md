@@ -27,6 +27,14 @@
 
 
   
+
+<div align="center"
+  
+![Preview](https://tthn.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdqejJkejg2Y2p2bXg0ZTZwcG1ua2FkbHV3ODlqMGhrOXgxeWpxNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kkw68HRUTBYBND4TRJ/giphy.gif" alt="Coding GIF" width="279px"/>
+
+
 ---
 <div align="center">
 
@@ -53,11 +61,5 @@ https://skillicons.dev/icons?i=,cpp,python,c,matlab,you
 </p>
 
 ---
-
-<div align="center"
-  
-![Preview](https://tthn.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdqejJkejg2Y2p2bXg0ZTZwcG1ua2FkbHV3ODlqMGhrOXgxeWpxNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kkw68HRUTBYBND4TRJ/giphy.gif" alt="Coding GIF" width="279px"/>
 
 ![snake gif](https://github.com/ItsShien/ItsShien/blob/output/github-snake-dark.svg)
