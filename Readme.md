@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTFxN3h2N3A1aWQ0OGpzZzZzOHhvOGV5MTR3eWl3ZjNneHFjYXU4aCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/472KaGZjuxUCQ/giphy.gif" alt="Coding GIF" width="1000"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtsN3k3MWZkcm9rM2xncjh2YXNjOTQzZWR5N2k2OGFvd2tkYW01aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8wCBLhkjNknS/giphy.gif" alt="Coding GIF" width="1000"/>
 </p>
  
 ---
@@ -72,7 +72,3 @@ https://skillicons.dev/icons?i=,cpp,python,c,matlab,you
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdqejJkejg2Y2p2bXg0ZTZwcG1ua2FkbHV3ODlqMGhrOXgxeWpxNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kkw68HRUTBYBND4TRJ/giphy.gif" alt="Coding GIF" width="279px"/>
 
 ![snake gif](https://github.com/ItsShien/ItsShien/blob/output/github-snake-dark.svg)
-
-
-
-
